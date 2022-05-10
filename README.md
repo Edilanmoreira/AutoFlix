@@ -1,2 +1,2 @@
 # AutoFlix
-Recriandoa Inteface do Netflix
+Recriando a Inteface do Netflix
